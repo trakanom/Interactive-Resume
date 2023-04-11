@@ -1,0 +1,77 @@
+.sidebar {
+    position: absolute;
+    top: 120px;
+    max-width: 10%;
+    padding: 15px;
+    margin: 5px;
+    background-color: #f8f9fa;
+    transition: all 0.3s ease;
+    z-index: 10;
+
+}
+
+.sidebar.fixed {
+    position: fixed;
+    top: 20px;
+}
+
+.sidebar.collapsed {
+    width: 10px;
+    /* overflow: hidden; */
+}
+
+
+.sidebar.left {
+    left: 0;
+    border-right: 1px solid #dee2e6;
+}
+
+.sidebar.right {
+    right: 0;
+    border-left: 1px solid #dee2e6;
+}
+
+.toggle-collapse {
+    position: absolute;
+    top: 5px;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+
+.toggle-collapse:hover {
+    background-color: #e9ecef;
+}
+
+.sidebar.collapsed {
+    width: 5px;
+    height: 100px;
+    padding: 0;
+    /* overflow: hidden; */
+}
+
+.sidebar.collapsed .sidebar-content {
+    display: none;
+}
+
+.sidebar.left .toggle-collapse {
+    right: -30px;
+    /* Update this value */
+    z-index: 11;
+    /* Add this line */
+}
+
+.sidebar.right .toggle-collapse {
+    left: -30px;
+    /* Update this value */
+    z-index: 11;
+    /* Add this line */
+}

@@ -1,0 +1,16 @@
+{
+    "projects": [
+        {
+            "name": "TestProj",
+            "url": "http://github.com/trakanom",
+            "subtitle": "A project about nothing",
+            "date": "2016–Present",
+            "summary": "A short summary about what this project does.",
+            "bullets": [
+                "technology utilized",
+                "achievements and stuff",
+                "and more"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+.role-selector {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+}
+
+.role-button {
+    /* cursor: pointer;
+    opacity: 0.5;
+    font-weight: normal;
+    user-select: none;
+    transition: opacity 0.2s, font-weight 0.2s; */
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    color: #333;
+    cursor: pointer;
+    font-size: 14px;
+    margin: 5px 0;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.role-button:hover {
+    opacity: 0.8;
+    background-color: #ddd;
+}
+
+.role-button.selected {
+    opacity: 1;
+    font-weight: bold;
+}

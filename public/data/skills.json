@@ -1,0 +1,341 @@
+{
+    "skills": [
+        {
+            "category": "Programming Languages",
+            "subcategories": [
+                {
+                    "subcategory": "General",
+                    "skills": [
+                        {
+                            "skill": "JavaScript",
+                            "labels": [
+                                "ENG"
+                            ]
+                        },
+                        {
+                            "skill": "Python",
+                            "labels": [
+                                "ENG",
+                                "SCI"
+                            ]
+                        },
+                        {
+                            "skill": "C#",
+                            "labels": [
+                                "ENG"
+                            ]
+                        },
+                        {
+                            "skill": "SQL",
+                            "labels": [
+                                "ENG"
+                            ]
+                        },
+                        {
+                            "skill": "C++",
+                            "labels": [
+                                "ENG",
+                                "SCI"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Web Development",
+            "subcategories": [
+                {
+                    "subcategory": "Frontend",
+                    "skills": [
+                        {
+                            "skill": "Vue",
+                            "labels": [
+                                "ENG"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subcategory": "Backend",
+                    "skills": [
+                        {
+                            "skill": "Flask",
+                            "labels": [
+                                "ENG"
+                            ]
+                        },
+                        {
+                            "skill": "Django",
+                            "labels": [
+                                "ENG"
+                            ]
+                        },
+                        {
+                            "skill": "ASP.NET",
+                            "labels": [
+                                "ENG"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Data Processing & Analysis",
+            "subcategories": [
+                {
+                    "subcategory": "Tools",
+                    "skills": [
+                        {
+                            "skill": "Pandas",
+                            "labels": [
+                                "ENG",
+                                "SCI"
+                            ]
+                        },
+                        {
+                            "skill": "Scikit-learn",
+                            "labels": [
+                                "SCI"
+                            ]
+                        },
+                        {
+                            "skill": "Jupyter",
+                            "labels": [
+                                "SCI"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subcategory": "Automation & Testing",
+                    "skills": [
+                        {
+                            "skill": "Selenium",
+                            "labels": [
+                                "ENG"
+                            ]
+                        },
+                        {
+                            "skill": "UIPath",
+                            "labels": [
+                                "ENG"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subcategory": "Data Visualization & Reporting",
+                    "skills": [
+                        {
+                            "skill": "Excel",
+                            "labels": [
+                                "MNG"
+                            ]
+                        },
+                        {
+                            "skill": "PowerBI",
+                            "labels": [
+                                "MNG"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "DevOps & Containerization",
+            "subcategories": [
+                {
+                    "subcategory": "Tools",
+                    "skills": [
+                        {
+                            "skill": "Docker",
+                            "labels": [
+                                "ENG"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Technical",
+            "subcategories": [
+                {
+                    "subcategory": "Development Methodologies",
+                    "skills": [
+                        {
+                            "skill": "Agile Development",
+                            "labels": [
+                                "ENG",
+                                "MNG"
+                            ]
+                        },
+                        {
+                            "skill": "Feature-Driven Development",
+                            "labels": [
+                                "ENG"
+                            ]
+                        },
+                        {
+                            "skill": "Test-Driven Development",
+                            "labels": [
+                                "ENG",
+                                "SCI"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subcategory": "Testing & Quality Assurance",
+                    "skills": [
+                        {
+                            "skill": "Test Writing",
+                            "labels": [
+                                "ENG",
+                                "SCI"
+                            ]
+                        },
+                        {
+                            "skill": "Design Patterns",
+                            "labels": [
+                                "ENG"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subcategory": "DevOps & Automation",
+                    "skills": [
+                        {
+                            "skill": "CI/CD",
+                            "labels": [
+                                "ENG"
+                            ]
+                        },
+                        {
+                            "skill": "Robotic Process Automation",
+                            "labels": [
+                                "ENG",
+                                "SCI",
+                                "MNG"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subcategory": "API & Data",
+                    "skills": [
+                        {
+                            "skill": "REST",
+                            "labels": [
+                                "ENG"
+                            ]
+                        },
+                        {
+                            "skill": "Data Modeling",
+                            "labels": [
+                                "ENG",
+                                "SCI"
+                            ]
+                        },
+                        {
+                            "skill": "Data Visualization",
+                            "labels": [
+                                "ENG",
+                                "SCI",
+                                "MNG"
+                            ]
+                        },
+                        {
+                            "skill": "Data Analysis",
+                            "labels": [
+                                "ENG",
+                                "SCI"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Soft",
+            "subcategories": [
+                {
+                    "subcategory": "General",
+                    "skills": [
+                        {
+                            "skill": "Leadership",
+                            "labels": [
+                                "MNG"
+                            ]
+                        },
+                        {
+                            "skill": "Communication",
+                            "labels": [
+                                "MNG"
+                            ]
+                        },
+                        {
+                            "skill": "Problem Solving",
+                            "labels": [
+                                "ENG",
+                                "SCI",
+                                "MNG"
+                            ]
+                        },
+                        {
+                            "skill": "Time Management",
+                            "labels": [
+                                "MNG"
+                            ]
+                        },
+                        {
+                            "skill": "Collaboration",
+                            "labels": [
+                                "ENG",
+                                "SCI",
+                                "MNG"
+                            ]
+                        },
+                        {
+                            "skill": "Adaptability",
+                            "labels": [
+                                "ENG",
+                                "SCI",
+                                "MNG"
+                            ]
+                        },
+                        {
+                            "skill": "Critical Thinking",
+                            "labels": [
+                                "ENG",
+                                "SCI"
+                            ]
+                        },
+                        {
+                            "skill": "Decision Making",
+                            "labels": [
+                                "MNG"
+                            ]
+                        },
+                        {
+                            "skill": "Conflict Resolution",
+                            "labels": [
+                                "MNG"
+                            ]
+                        },
+                        {
+                            "skill": "Empathy",
+                            "labels": [
+                                "MNG"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
