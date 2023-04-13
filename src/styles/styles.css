@@ -1,14 +1,23 @@
+.root {
+    color: #000;
+}
+
+.App {
+    background-color: #5e548e;
+}
+
 .Document {
     margin-top: 25px;
     width: 61.8%;
     margin-inline: 15%;
     padding-inline: 4.1%;
+    background-color: #231942;
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Helvetica;
     font-size: 16px;
-    color: #333;
+    color: #e0b1cb;
     line-height: 1.6;
 }
 
@@ -17,6 +26,7 @@ h1 {
     font-weight: bold;
     margin-bottom: -10px;
     text-align: center;
+    font-family: Garamond;
 }
 
 h2 {
@@ -62,10 +72,11 @@ body li {
 .category {
     /* background-color: #efc4f2; */
     /* Adjust this to your preferred color */
-    padding: 20px;
+    padding: .5%;
+    padding-top: 1%;
     /* border-radius: 20px; */
     /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     text-align: center;
     vertical-align: middle;
 }
@@ -94,9 +105,10 @@ body li {
 .skill-item {
     background-color: #f1f1f1;
     border: 1px solid #ccc;
-    color: #333;
+    color: #000;
     /* cursor: pointer; */
-    font-size: 14px;
+    font-size: 15px;
+    font-weight: bold;
     margin: 0;
     padding: 5px 10px;
     text-align: center;
@@ -112,11 +124,14 @@ body li {
 
 .skills-list {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(30%, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(20%, 1fr));
+    grid-template-rows: auto 1fr;
+
     grid-gap: 5%;
     list-style: none;
 
     padding: 2%;
+
     margin: 0;
 }
 
@@ -142,7 +157,8 @@ body li {
     align-items: center;
     justify-content: center;
     min-height: 40px;
-
+    background-color: #9B829F;
+    max-width: 50%;
 }
 
 
