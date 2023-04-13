@@ -22,6 +22,25 @@
                     "MNG",
                     "ENG"
                 ]
+            },
+            {
+                "text": "Developed and implemented project management strategies to ensure on-time delivery of high-quality software solutions, streamlining project execution and maximizing client satisfaction.",
+                "labels": [
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Designed and conducted thorough testing procedures, ensuring the reliability and stability of software solutions and minimizing potential risks.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Advised clients on software development life cycle methodologies and best practices, leading to improved efficiency and more predictable outcomes.",
+                "labels": [
+                    "MNG"
+                ]
             }
         ],
         "accomplishments": [
@@ -41,6 +60,28 @@
             {
                 "text": "Client Satisfaction - Maintained a high level of client satisfaction through effective communication, timely delivery, and quality-driven development, resulting in repeat business and referrals.",
                 "labels": [
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Cross-Industry Impact - Successfully delivered software solutions for diverse industries, such as fintech, healthcare, and gaming, demonstrating adaptability and expertise in various domains.",
+                "labels": [
+                    "ENG",
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Tech Stack Mastery - Gained proficiency in multiple programming languages and technologies, enabling the delivery of optimal solutions tailored to client requirements and preferences.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Resource Optimization - Implemented innovative automation techniques to streamline client processes, leading to reduced manual labor and increased operational efficiency.",
+                "labels": [
+                    "ENG",
+                    "SCI",
                     "MNG"
                 ]
             }
@@ -68,6 +109,26 @@
                 "labels": [
                     "SCI"
                 ]
+            },
+            {
+                "text": "Monitored market performance and economic indicators to identify potential shifts and adjust investment strategies accordingly.",
+                "labels": [
+                    "SCI",
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Established and maintained relationships with external stakeholders, including investment banks and financial institutions, to support ongoing business operations.",
+                "labels": [
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Conducted comprehensive due diligence and risk assessment for new investment opportunities, ensuring the firm's long-term success.",
+                "labels": [
+                    "SCI",
+                    "MNG"
+                ]
             }
         ],
         "accomplishments": [
@@ -88,57 +149,451 @@
                 "labels": [
                     "MNG"
                 ]
+            },
+            {
+                "text": "Diversification - Expanded the company's investment portfolio by identifying and capitalizing on opportunities in multiple sectors, leading to improved risk management and overall performance.",
+                "labels": [
+                    "MNG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Team Growth - Mentored and developed team members, fostering a culture of continuous learning and professional development, contributing to the firm's overall success.",
+                "labels": [
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Data-Driven Decisions - Leveraged data analytics and financial modeling to drive strategic decision-making, leading to a more focused and efficient investment process.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
             }
         ]
     },
     {
         "title": "Multi-Agent Systems Engineer",
         "subtitle": "Coleader • Thank Mr Skeltal • 3/2013–11/2017 • Remote",
-        "responsibilities": "Co-founded a successful mercenary guild, providing software development and analytical services focused on optimization and automation. Utilized mathematical techniques, machine learning concepts, and industry-specific knowledge to enhance character configurations and create custom scripts using LavishScript tech stack. Offered personalized support to clients, ensuring seamless integration of systems and processes.",
+        "responsibilities": [
+            {
+                "text": "Co-founded a successful mercenary guild, providing software development and analytical services focused on optimization and automation.",
+                "labels": [
+                    "MNG",
+                    "ENG"
+                ]
+            },
+            {
+                "text": "Utilized mathematical techniques, machine learning concepts, and industry-specific knowledge to enhance character configurations and create custom scripts using LavishScript tech stack.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Offered personalized support to clients, ensuring seamless integration of systems and processes.",
+                "labels": [
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Oversaw project management, including task delegation and progress tracking, ensuring timely delivery and high-quality results.",
+                "labels": [
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Conducted extensive research and analysis to identify emerging trends and technologies in the gaming industry, informing the development of innovative solutions and strategies.",
+                "labels": [
+                    "SCI",
+                    "ENG"
+                ]
+            },
+            {
+                "text": "Developed and maintained comprehensive documentation for developed solutions, facilitating knowledge transfer and ensuring long-term sustainability.",
+                "labels": [
+                    "ENG",
+                    "MNG"
+                ]
+            }
+        ],
         "accomplishments": [
-            "Top Performance - Attracted 40 clients through top 1% performance in optimization and automation services.",
-            "Advanced Script Development - Created advanced scripts and systems to enable small teams to manage multiple characters and complete end-game content using intricate strategies and real-time analytics.",
-            "Client Engagement - Established strong relationships with clients, providing tailored support and maintaining clear communication to ensure successful implementation and ongoing optimization of custom solutions."
+            {
+                "text": "Top Performance - Attracted 40 clients through top 1% performance in optimization and automation services.",
+                "labels": [
+                    "MNG",
+                    "ENG"
+                ]
+            },
+            {
+                "text": "Advanced Script Development - Created advanced scripts and systems to enable small teams to manage multiple characters and complete end-game content using intricate strategies and real-time analytics.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Client Engagement - Established strong relationships with clients, providing tailored support and maintaining clear communication to ensure successful implementation and ongoing optimization of custom solutions.",
+                "labels": [
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Innovation - Pioneered novel techniques and strategies in the field of multi-agent systems, positioning the guild as a leader in the industry.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Scalable Solutions - Designed scalable and adaptable solutions that empowered clients to easily manage growth and changing requirements.",
+                "labels": [
+                    "ENG",
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Knowledge Sharing - Fostered a culture of collaboration and knowledge sharing among team members, leading to increased efficiency and improved overall performance.",
+                "labels": [
+                    "MNG"
+                ]
+            }
         ]
     },
     {
         "title": "Practice Manager, Technology and Maintenance",
         "subtitle": "First Sierra Dental Care • 6/2013–4/2020 • Fresno, CA",
-        "responsibilities": "Oversaw the execution of 200+ engineering and maintenance projects at First Sierra Dental Care, and managed a small team of technicians. Focused on infrastructure modernization, equipment design and repair, and technological integrations to improve overall practice operations. Employed industry-standard methods and procedures to ensure high-quality results.",
+        "responsibilities": [
+            {
+                "text": "Oversaw the execution of 200+ engineering and maintenance projects at First Sierra Dental Care, and managed a small team of technicians.",
+                "labels": [
+                    "MNG",
+                    "ENG"
+                ]
+            },
+            {
+                "text": "Focused on infrastructure modernization, equipment design and repair, and technological integrations to improve overall practice operations.",
+                "labels": [
+                    "ENG"
+                ]
+            },
+            {
+                "text": "Employed industry-standard methods and procedures to ensure high-quality results.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Developed and implemented budgeting and resource allocation plans for engineering and maintenance projects, maximizing efficiency and reducing costs.",
+                "labels": [
+                    "MNG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Collaborated with vendors and suppliers to procure necessary equipment and services, while negotiating favorable terms and maintaining strong business relationships.",
+                "labels": [
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Conducted regular audits and assessments of practice facilities, ensuring compliance with safety and regulatory standards.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            }
+        ],
         "accomplishments": [
-            "Leadership Development - Fostered professional growth within a small team of maintenance technicians by providing leadership and guidance, leading to increased team efficiency and project success.",
-            "Infrastructure Modernization - Executed infrastructure modernization projects, including energy optimization initiatives that reduced environmental impact and operating costs, adhering to industry best practices.",
-            "COVID-19 Safety Measures - Spearheaded the creation of protective environments to minimize COVID-19 transmission, successfully preventing outbreaks through the design and implementation of negative pressure rooms, exhaust systems, and disinfectant delivery mechanisms, following guidelines from health organizations."
+            {
+                "text": "Leadership Development - Fostered professional growth within a small team of maintenance technicians by providing leadership and guidance, leading to increased team efficiency and project success.",
+                "labels": [
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Infrastructure Modernization - Executed infrastructure modernization projects, including energy optimization initiatives that reduced environmental impact and operating costs, adhering to industry best practices.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "COVID-19 Safety Measures - Spearheaded the creation of protective environments to minimize COVID-19 transmission, successfully preventing outbreaks through the design and implementation of negative pressure rooms, exhaust systems, and disinfectant delivery mechanisms, following guidelines from health organizations.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Cost Reduction - Identified and implemented cost-saving measures, resulting in a 15% reduction in annual maintenance expenses.",
+                "labels": [
+                    "MNG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Technology Integration - Streamlined practice operations by integrating advanced technological solutions, improving efficiency and patient experience.",
+                "labels": [
+                    "ENG"
+                ]
+            },
+            {
+                "text": "Quality Assurance - Implemented quality assurance processes, leading to a 20% reduction in maintenance-related issues and improved overall operational performance.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            }
         ]
     },
     {
         "title": "Facility Engineer / System Administrator",
         "subtitle": "First Sierra Dental Care • 12/2005–6/2013 • Fresno and Coarsegold, CA",
-        "responsibilities": "Began as an apprentice and rapidly progressed into a facility engineering and system administration role, managing maintenance projects, overseeing direct reports, and providing 24/7 problem-solving support to ensure smooth operations and minimal downtime. Utilized industry-standard maintenance management systems and information technology tools to improve efficiency and reduce costs.",
+        "responsibilities": [
+            {
+                "text": "Began as an apprentice and rapidly progressed into a facility engineering and system administration role, managing maintenance projects, overseeing direct reports, and providing 24/7 problem-solving support to ensure smooth operations and minimal downtime.",
+                "labels": [
+                    "MNG",
+                    "ENG"
+                ]
+            },
+            {
+                "text": "Utilized industry-standard maintenance management systems and information technology tools to improve efficiency and reduce costs.",
+                "labels": [
+                    "ENG"
+                ]
+            },
+            {
+                "text": "Developed and maintained comprehensive documentation for maintenance procedures and IT systems, facilitating knowledge transfer and ensuring long-term sustainability.",
+                "labels": [
+                    "ENG",
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Implemented data backup and recovery plans, safeguarding critical business information and ensuring business continuity.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Managed and resolved hardware, software, and networking issues to maintain a high level of operational efficiency.",
+                "labels": [
+                    "ENG"
+                ]
+            }
+        ],
         "accomplishments": [
-            "Rapid Growth - Demonstrated adaptability and strong learning capabilities, transitioning from hands-on tasks to managing maintenance projects and direct reports, becoming proficient in industry best practices.",
-            "Office Expansion - Spearheaded a 300 sq. ft. expansion at the Coarsegold location, executing framing, insulation, flooring, drywall, and electrical work with minimal assistance, creating added value for the practice and adhering to local building codes and regulations.",
-            "Versatility - Showcased versatility by taking on personal assistant duties for the owner, contributing to the overall success of the business through effective multitasking and time management."
+            {
+                "text": "Rapid Growth - Demonstrated adaptability and strong learning capabilities, transitioning from hands-on tasks to managing maintenance projects and direct reports, becoming proficient in industry best practices.",
+                "labels": [
+                    "MNG",
+                    "ENG"
+                ]
+            },
+            {
+                "text": "Office Expansion - Spearheaded a 300 sq. ft. expansion at the Coarsegold location, executing framing, insulation, flooring, drywall, and electrical work with minimal assistance, creating added value for the practice and adhering to local building codes and regulations.",
+                "labels": [
+                    "ENG"
+                ]
+            },
+            {
+                "text": "Versatility - Showcased versatility by taking on personal assistant duties for the owner, contributing to the overall success of the business through effective multitasking and time management.",
+                "labels": [
+                    "MNG"
+                ]
+            },
+            {
+                "text": "System Optimization - Conducted comprehensive system audits, identifying areas for improvement and implementing solutions that increased system reliability and performance.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Proactive Maintenance - Established a proactive maintenance schedule, reducing equipment downtime by 30% and improving overall operational efficiency.",
+                "labels": [
+                    "ENG",
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Training and Support - Developed training materials and provided ongoing support for team members, ensuring a thorough understanding of maintenance processes and IT systems.",
+                "labels": [
+                    "MNG",
+                    "ENG"
+                ]
+            }
         ]
     },
     {
         "title": "Competitive Gamer, Strategy Development & Team Leader",
         "subtitle": "Everquest II (MMORPG) • 3/2005–11/2017 • Remote",
-        "responsibilities": "Excelled in multiple high-ranked guilds, showcasing optimization and coordination expertise within the gaming industry. Successfully negotiated the merger of two struggling guilds and led the resulting guild to achieve server rank #2 in a senior leadership role. Utilized data-driven insights and industry-standard software tools to analyze and enhance team performance.",
+        "responsibilities": [
+            {
+                "text": "Excelled in multiple high-ranked guilds, showcasing optimization and coordination expertise within the gaming industry.",
+                "labels": [
+                    "MNG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Successfully negotiated the merger of two struggling guilds and led the resulting guild to achieve server rank #2 in a senior leadership role.",
+                "labels": [
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Utilized data-driven insights and industry-standard software tools to analyze and enhance team performance.",
+                "labels": [
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Mentored new players, cultivating a supportive and inclusive community, fostering talent development and increasing overall team success.",
+                "labels": [
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Identified and recruited high-potential players, continuously improving team performance and maintaining a competitive edge within the gaming community.",
+                "labels": [
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Managed and resolved conflicts within the guild, ensuring a positive and cohesive team environment.",
+                "labels": [
+                    "MNG"
+                ]
+            }
+        ],
         "accomplishments": [
-            "Strategic Leadership - Pioneered end-game strategies, leading teams through thousands of complex challenges, and maintained a 95% lifetime raid attendance across 30,000 hours of playtime, optimizing group dynamics and resource allocation.",
-            "Community Impact - Impacted game development and community optimization standards as a well-known player, subject matter expert, and problem-solver, actively participating in forums and sharing best practices.",
-            "Data Analysis - Leveraged coordination and data analysis tools, such as combat logs and damage meters, to streamline team tactics development, fostering a reputation for excellence within the worldwide community."
+            {
+                "text": "Strategic Leadership - Pioneered end-game strategies, leading teams through thousands of complex challenges, and maintained a 95% lifetime raid attendance across 30,000 hours of playtime, optimizing group dynamics and resource allocation.",
+                "labels": [
+                    "MNG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Community Impact - Impacted game development and community optimization standards as a well-known player, subject matter expert, and problem-solver, actively participating in forums and sharing best practices.",
+                "labels": [
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Data Analysis - Leveraged coordination and data analysis tools, such as combat logs and damage meters, to streamline team tactics development, fostering a reputation for excellence within the worldwide community.",
+                "labels": [
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Guild Turnaround - Successfully transformed two struggling guilds into a highly competitive and respected organization, achieving server rank #2 and creating lasting impact within the gaming community.",
+                "labels": [
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Innovation - Developed and shared innovative strategies within the gaming community, contributing to the continuous evolution and improvement of gameplay and tactics.",
+                "labels": [
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Skill Development - Consistently honed personal gaming skills, achieving high rankings and earning recognition as a subject matter expert within the community.",
+                "labels": [
+                    "SCI"
+                ]
+            }
         ]
     },
     {
         "title": "NASA Swarmathon Competitor (3rd Place)",
         "subtitle": "Swarmathon Team (CSU Channel Islands) • 1/2017–5/2017 • Camarillo, CA",
-        "responsibilities": "Contributed to space exploration technology by programming robots to achieve 3rd place out of 19 teams at the 2017 competition. Developed robot search and retrieval algorithms in C++ using ROS (Robot Operating System) framework and supported the team through troubleshooting and collaboration.",
+        "responsibilities": [
+            {
+                "text": "Contributed to space exploration technology by programming robots to achieve 3rd place out of 19 teams at the 2017 competition.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Developed robot search and retrieval algorithms in C++ using ROS (Robot Operating System) framework and supported the team through troubleshooting and collaboration.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Collaborated with team members to design and develop innovative algorithms for autonomous robot swarm control, contributing to the advancement of space exploration technology.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Implemented rigorous testing and debugging processes to ensure the performance and reliability of robot search and retrieval algorithms.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Presented team accomplishments and findings at the competition, showcasing problem-solving skills, technical expertise, and the ability to communicate complex concepts.",
+                "labels": [
+                    "MNG"
+                ]
+            }
+        ],
         "accomplishments": [
-            "Competition Success - Achieved 3rd place against 19 teams at the 2017 NASA Swarmathon Robotics Competition, contributing code toward Mars rover development and enhancing the efficiency of resource collection.",
-            "Technical Expertise - Utilized multi-agent programming experience and strategic planning to enhance robot search and retrieval algorithms, demonstrating strong problem-solving skills and optimizing robot swarm coordination.",
-            "Team Support - Built and configured portable installations of Ubuntu to run test scenarios in Gazebo, a robotic simulator, providing crucial troubleshooting support for the team and ensuring seamless integration of algorithms."
+            {
+                "text": "Competition Success - Achieved 3rd place against 19 teams at the 2017 NASA Swarmathon Robotics Competition, contributing code toward Mars rover development and enhancing the efficiency of resource collection.",
+                "labels": [
+                    "ENG",
+                    "SCI",
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Technical Expertise - Utilized multi-agent programming experience and strategic planning to enhance robot search and retrieval algorithms, demonstrating strong problem-solving skills and optimizing robot swarm coordination.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Team Support - Built and configured portable installations of Ubuntu to run test scenarios in Gazebo, a robotic simulator, providing crucial troubleshooting support for the team and ensuring seamless integration of algorithms.",
+                "labels": [
+                    "ENG",
+                    "SCI",
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Algorithm Optimization - Optimized robot search and retrieval algorithms, leading to increased efficiency and improved resource collection capabilities.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            },
+            {
+                "text": "Knowledge Sharing - Shared project learnings and insights with peers and faculty, contributing to the growth and development of the robotics community.",
+                "labels": [
+                    "MNG"
+                ]
+            },
+            {
+                "text": "Technical Growth - Developed proficiency in C++, ROS (Robot Operating System) framework, and robotic simulation, expanding technical skillset and contributing to future career opportunities.",
+                "labels": [
+                    "ENG",
+                    "SCI"
+                ]
+            }
         ]
     }
 ]
